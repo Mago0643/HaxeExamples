@@ -4,4 +4,8 @@
 
 # Copyright
 * If Theres `// Please no use` in some code, **Please don't use them.**
-* I will credit somebody if that code is not mine. 
+* I will credit somebody if that code is not mine.
+
+# Translation
+* If you want to translation these docs, do the translation and pull request the file.
+* Anybody can do that contains edit/add files.

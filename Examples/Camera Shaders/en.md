@@ -1,0 +1,1 @@
+* English Translation not added yet. sry..
